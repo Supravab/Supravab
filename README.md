@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Supravab
-- 👀 I’m interested in learning, programming and engineering
-- 🌱 I’m currently learning python and linux. Logic and maths as well
+- 👀 I’m interested in designing, productivity, learning and developing.
+- 🌱 I’m currently learning javascript, UI/UX, react, linux, bashscript, typescript, express.js
 - 💞️ I’m looking to collaborate on anything, fun projects, helping with some work.
-- 📫 How to reach me insta(search : supravab parajuli)
+- 📫 linkedn(supravab_parajuli), or message me in supravabparajuli@gmail.com
 - 😄 Pronouns: male
-- ⚡ Fun fact: snakes smell with their tongue  😲?
+- ⚡ Fun fact: idk
 
 <!---
 Supravab/Supravab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
