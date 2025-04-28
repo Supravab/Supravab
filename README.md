@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and linux. Logic and maths as well
 - 💞️ I’m looking to collaborate on anything, fun projects, helping with some work.
 - 📫 How to reach me insta(search : supravab parajuli)
-- 😄 Pronouns: i am straight male, idk about my pronouns or anything. he/him right?
+- 😄 Pronouns: male
 - ⚡ Fun fact: snakes smell with their tongue  😲?
 
 <!---
