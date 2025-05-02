@@ -1,7 +1,12 @@
 <!-- Top decoration: looping Matrix rain GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Matrix Rain" width="300"/>
+  <img
+    src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif"
+    alt="Matrix Code Rain"
+    width="300"
+  />
 </p>
+
 
 <!-- ASCII art header -->
 <pre align="center">
