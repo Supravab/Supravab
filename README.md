@@ -1,11 +1,12 @@
 <!-- Top decoration: looping Matrix rain GIF -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif"
-    alt="Matrix Code Rain"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0yZGYxZGx0dXF0ZWlxaHRubmQzbmN6bzl0NW8zdmtyYm80NHk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J2rRnpp1eVWJm8gFjp/giphy.gif"
+    alt="Rotating Code Brackets"
     width="300"
   />
 </p>
+
 
 
 <!-- ASCII art header -->
