@@ -56,11 +56,11 @@ Hi! I’m **Supravab**, a constantly learning student, tech enthusiast, programm
 
 <div align="center">
   <!-- Languages -->
-  <code>JavaScript</code> <code>React</code> <code>HTML</code> <code>CSS</code> <code>Sass</code>  
+  <code>JavaScript</code> <code>GO</code> <code>HTML</code> <code>CSS</code> <code>Sass</code>  
   <!-- Design -->
   <code>Figma</code>  
   <!-- Tools -->
-  <code>Git</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux</code> <code>Bash</code>
+  <code>Git</code> <code>Docker</code> <code>Linux</code> <code>Bash</code>
 </div>
 
 ---
